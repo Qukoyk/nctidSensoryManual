@@ -84,7 +84,7 @@
   - 右摄像头IP地址 ``http://192.168.1.130/ISAPI/Streaming/channels/102/httpPreview``
   - 账户 admin；密码 Noldus123；格式 MJPEG
   
-1. 启动分析
+3. 启动分析
     1. 点击分析按钮
     2. 观察右侧的时间，确认分析正式开始，最大时长2小时
     3. 切换到 ``FaceReaderExternalControlSample`` 程序
