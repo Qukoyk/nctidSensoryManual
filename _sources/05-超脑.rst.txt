@@ -1,6 +1,14 @@
 超脑
 ==================
 
+
+.. image:: /images/title/chaonao.jpg
+  :width: 85%
+  :align: center
+
+|
+
+
 .. contents:: **章节目录**
     :local:
     :depth: 2
