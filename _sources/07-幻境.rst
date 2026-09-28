@@ -54,7 +54,7 @@
 【科研】仪器介绍
 -------------------
 
-.. image:: https://business.vive.com/media/filer_public/vive/enterprise/vive-pro-eye/webp/intro_hmd-1920.webp
+.. image:: /images/07/intro_hmd-1920.webp
   :width: 75%
   :align: center
 

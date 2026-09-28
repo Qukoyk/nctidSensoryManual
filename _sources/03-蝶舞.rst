@@ -85,7 +85,7 @@
 
 眼动仪是用于收集注视位置、注视方向、眼球运动数据的高精密仪器。展位所使用的眼动仪为  ``Tobii EyeTracker 5`` 遥测式眼动仪，是世界眼动追踪龙头企业——瑞典 ``Tobii`` 公司的最新款消费级眼动仪。
 
-.. image:: https://gaming.tobii.com/wp-content/uploads/2021/05/buy-tet5.png
+.. image:: /images/03/buy-tet5.png
     :width: 75%
     :align: center
 
@@ -105,7 +105,7 @@ EyeTrakcer5 技术规格
 
 在研究中，会使用精度更高的科研级产品—— ``Tobii Pro Fusion`` 遥测式眼动仪和 ``Tobii Pro Glasses 3`` 头戴式眼动仪。
 
-.. image:: https://www.tobii.cn/imagevault/publishedmedia/max68ype7l8eb3p9q4xj/Tobii-Pro-Fusion-eye-tracker.jpg
+.. image:: /images/03/Tobii-Pro-Fusion-eye-tracker.jpg
     :width: 100%
     :align: center
 
@@ -130,7 +130,7 @@ Fusion 技术规格
 
 |
 
-.. image:: https://www.tobii.com/imagevault/publishedmedia/o2vfxu5bktqwljpoaozf/Tobii-Pro-Glasses-3-front-view.png
+.. image:: /images/03/Tobii-Pro-Glasses-3-front-view.png
   :width: 80%
   :align: center
 

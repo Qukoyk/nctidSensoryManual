@@ -60,7 +60,7 @@
 
 多导生理仪是一种读取生理数据的高精密仪器。通过传感器获得身体电信号后，经过生物放大器和滤波器，最终在计算机中进行记录相关数据。
 
-.. image:: https://www.biopac.com/wp-content/uploads/MP160-1024x981.jpg
+.. image:: /images/08/MP160-1024x981.jpg
   :width: 80%
   :align: center
 
